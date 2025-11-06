@@ -1,0 +1,39 @@
+{
+  "name": "ts-rate-limiter",
+  "version": "1.0.0",
+  "description": "🚦 Modular API Rate Limiter with Redis, built in TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "cli": "ts-node src/cli/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "rate-limiter",
+    "typescript",
+    "redis",
+    "api",
+    "middleware",
+    "cli"
+  ],
+  "author": "Murad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fastify": "^4.22.2",
+    "ioredis": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.5.1",
+    "@types/supertest": "^6.0.3",
+    "jest": "^29.6.4",
+    "superagent": "^10.2.3",
+    "supertest": "^7.1.4",
+    "ts-jest": "^29.4.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
