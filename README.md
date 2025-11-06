@@ -53,7 +53,6 @@ npm run cli reset 127.0.0.1:/api
 npm test
 ```
 
-
 Each folder is modular and purpose-driven:
 
 - **core/** – Implements the rate limiting logic and exposes the public API.
