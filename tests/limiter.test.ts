@@ -1,7 +1,7 @@
 import { LimiterEngine } from '../src/core/LimiterEngine';
 import { LimitConfig, UsageRecord } from '../src/core/types';
 
-describe('LimiterEngine', () => {
+describe('LimiterEngine', () => { 
   const config: LimitConfig = { windowMs: 60000, maxRequests: 5 };
   const engine = new LimiterEngine(config);
 
