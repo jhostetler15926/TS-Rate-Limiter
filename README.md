@@ -1,5 +1,5 @@
 # 🚦 TS Rate Limiter 
- 
+  
 A modular, scalable, and production-ready API rate limiter built with TypeScript and Redis. Designed for Express and Fastify, this package provides plug-and-play middleware, CLI tools, and branded configuration for managing request limits across endpoints and IPs.
 ---
 
